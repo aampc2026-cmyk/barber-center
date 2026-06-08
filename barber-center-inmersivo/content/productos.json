@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "id": "cera-mate",
+      "nombre_es": "Cera Mate · Fijación Fuerte",
+      "nombre_en": "Matte Wax · Strong Hold",
+      "categoria": "Ceras",
+      "desc_es": "Acabado mate sin brillo y fijación de larga duración. 100 ml.",
+      "desc_en": "Shine-free matte finish with long-lasting hold. 100 ml.",
+      "precio": "12.90",
+      "foto": "assets/img/groom.webp"
+    },
+    {
+      "id": "cera-brillo",
+      "nombre_es": "Cera Brillo · Acabado Pulido",
+      "nombre_en": "Shine Pomade · Polished Finish",
+      "categoria": "Ceras",
+      "desc_es": "Brillo elegante y peinado moldeable durante todo el día. 100 ml.",
+      "desc_en": "Elegant shine with a reworkable hold all day long. 100 ml.",
+      "precio": "12.90",
+      "foto": "assets/img/detail.webp"
+    },
+    {
+      "id": "crema-peinado",
+      "nombre_es": "Crema de Peinado",
+      "nombre_en": "Styling Cream",
+      "categoria": "Cremas",
+      "desc_es": "Control ligero y aspecto natural para el día a día. 120 ml.",
+      "desc_en": "Light control and a natural look for every day. 120 ml.",
+      "precio": "11.50",
+      "foto": "assets/img/tools.webp"
+    },
+    {
+      "id": "aceite-barba",
+      "nombre_es": "Aceite para Barba",
+      "nombre_en": "Beard Oil",
+      "categoria": "Aceites",
+      "desc_es": "Hidrata, suaviza y da brillo natural a la barba. 30 ml.",
+      "desc_en": "Hydrates, softens and adds a natural shine to the beard. 30 ml.",
+      "precio": "14.50",
+      "foto": "assets/img/razor.webp"
+    },
+    {
+      "id": "aceite-capilar",
+      "nombre_es": "Aceite Capilar Nutritivo",
+      "nombre_en": "Nourishing Hair Oil",
+      "categoria": "Aceites",
+      "desc_es": "Nutre y aporta brillo sin apelmazar el cabello. 50 ml.",
+      "desc_en": "Nourishes and adds shine without weighing hair down. 50 ml.",
+      "precio": "13.50",
+      "foto": "assets/img/mirror.webp"
+    },
+    {
+      "id": "polvo-texturizante",
+      "nombre_es": "Polvo Texturizante",
+      "nombre_en": "Texturising Powder",
+      "categoria": "Polvos",
+      "desc_es": "Volumen y cuerpo al instante con efecto invisible. 20 g.",
+      "desc_en": "Instant volume and body with an invisible effect. 20 g.",
+      "precio": "9.90",
+      "foto": "assets/img/clipper.webp"
+    },
+    {
+      "id": "champu-fortalecedor",
+      "nombre_es": "Champú Fortalecedor",
+      "nombre_en": "Strengthening Shampoo",
+      "categoria": "Champús",
+      "desc_es": "Limpia en profundidad y refuerza el cabello día a día. 250 ml.",
+      "desc_en": "Deep-cleanses and strengthens hair day after day. 250 ml.",
+      "precio": "11.00",
+      "foto": "assets/img/cut.webp"
+    },
+    {
+      "id": "champu-anticaspa",
+      "nombre_es": "Champú Anticaspa",
+      "nombre_en": "Anti-Dandruff Shampoo",
+      "categoria": "Champús",
+      "desc_es": "Equilibra el cuero cabelludo y elimina la caspa. 250 ml.",
+      "desc_en": "Balances the scalp and clears away dandruff. 250 ml.",
+      "precio": "11.50",
+      "foto": "assets/img/beard.webp"
+    }
+  ]
+}
